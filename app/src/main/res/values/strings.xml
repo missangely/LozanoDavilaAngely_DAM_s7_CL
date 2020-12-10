@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DAM_s7_CL</string>
+    <string name="title_activity_notas">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_notas">Notas</string>
+    <string name="title_favoritas">Favoritas</string>
+    <string name="title_user_profile">Mi Perfil</string>
+    <string name="title_Notas">Notas</string>
+    <string name="title_Favoritas">Favoritas</string>
+    <string name="title_MiPerfil">Mi Perfil</string>
+</resources>
